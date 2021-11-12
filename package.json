@@ -1,0 +1,19 @@
+{
+  "name": "@hummer/devtool-inject-loader",
+  "version": "0.0.1",
+  "description": "hummer ts/js项目调试代码注入",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrangeLab/hummer-devtool-inject-loader.git"
+  },
+  "author": "AdamCaoQAQ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OrangeLab/hummer-devtool-inject-loader/issues"
+  },
+  "homepage": "https://github.com/OrangeLab/hummer-devtool-inject-loader#readme"
+}
