@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+coverage
+temp
+explorations
+TODOs.md
+*.log
+
+package-lock.json
+
+dist
+playground
+.vscode

@@ -1,6 +1,6 @@
 {
   "name": "@hummer/devtool-inject-loader",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1",
   "description": "hummer ts/js项目调试代码注入",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/OrangeLab/hummer-devtool-inject-loader/issues"
   },
-  "homepage": "https://github.com/OrangeLab/hummer-devtool-inject-loader#readme"
+  "homepage": "https://github.com/OrangeLab/hummer-devtool-inject-loader#readme",
+  "dependencies": {
+    "source-map": "^0.7.3"
+  }
 }
